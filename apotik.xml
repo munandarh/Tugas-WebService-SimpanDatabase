@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apotik xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="apotik.xsd">
+<obat>
+	<nama>Paracetamol</nama>
+	<kode>G202</kode>
+	<ukuran>500MG</ukuran>
+	<satuan>Strip</satuan>
+	<jumlah>8</jumlah>
+	<khasiat>Meringankan Demam</khasiat>
+	<harga>10000</harga>
+	<perusahaan>
+	 <namaperusahaan>PT.PIM PHARMACEUTICALS</namaperusahaan>
+		<alamat>Pasuruan</alamat>
+		<email>pimphar@gmail.com</email>
+	</perusahaan>
+</obat>
+
+<obat>
+	<nama>Promag</nama>
+	<kode>L328</kode>
+	<ukuran>500MG</ukuran>
+	<satuan>Strip</satuan>
+	<jumlah>12</jumlah>
+	<khasiat>Meringankan Asam Lambung</khasiat>
+	<harga>8000</harga>
+	<perusahaan>
+	 <namaperusahaan>PT.KALBE FARMA</namaperusahaan>
+		<alamat>Bekasi</alamat>
+		<email>kalbefarma@gmail.com</email>
+	</perusahaan>
+</obat>
+
+
+</apotik>
